@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
 
 this is an great introduction
 
@@ -10,10 +10,10 @@ this is an great introduction
 
 Sample website with plenty of files for demos
 
-##Deployment
+## Deployment
 idedeploy natin
 
-##How to contribute
+## How to contribute
 
 like and subs my channel
 
