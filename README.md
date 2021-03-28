@@ -18,3 +18,4 @@ idedeploy natin
 like and subs my channel
 
 ## Copyright
+copytight 
