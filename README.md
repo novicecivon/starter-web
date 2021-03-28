@@ -10,6 +10,8 @@ this is an great introduction
 
 Sample website with plenty of files for demos
 
+##Deployment
+idedeploy natin
 
 ##How to contribute
 
